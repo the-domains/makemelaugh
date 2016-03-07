@@ -1,4 +1,4 @@
-name: Dont Make Me Laugh
+name: "Don't Make Me Laugh"
 favicon: null
 layout_spectrum: 0.6268271489534527
 typography_spectrum: 0.9431360063608736
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 1
-  lightness: 0.4770469288341701
+  brandStrength: 0.1875
+  lightness: 0.875
   saturation: 0.14844991965219378
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
