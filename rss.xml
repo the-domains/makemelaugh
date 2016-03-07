@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[makemelaugh]]></title>
-        <description><![CDATA[makemelaugh]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Dontlol.com]]></title>
+        <description><![CDATA[Dontlol.com]]></description>
+        <link>http://dontlol.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 22:57:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 01:01:27 GMT</lastBuildDate>
+        <atom:link href="http://dontlol.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/116ffd99-fdef-43d2-9344-d94c6f9f04a4.jpg">]]></description>
+            <link>http://dontlol.com/42dc7a3e-a799-4496-91f0-37d0454bba97/index.html</link>
+            <guid isPermaLink="false">42dc7a3e-a799-4496-91f0-37d0454bba97</guid>
+            <pubDate>Mon, 07 Mar 2016 01:01:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome, I hope your funny bone is not broken.</p>]]></description>
-            <link>undefinedffcd0fe4-ce67-4195-850c-e538b0454ba0/index.html</link>
+            <link>http://dontlol.com/ffcd0fe4-ce67-4195-850c-e538b0454ba0/index.html</link>
             <guid isPermaLink="false">ffcd0fe4-ce67-4195-850c-e538b0454ba0</guid>
             <pubDate>Sun, 06 Mar 2016 22:56:47 GMT</pubDate>
         </item>
