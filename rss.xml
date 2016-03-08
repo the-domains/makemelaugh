@@ -4,7 +4,7 @@
         <description><![CDATA[Don't Make Me Laugh - Dontlol.com]]></description>
         <link>http://dontlol.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 01:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 01:11:52 GMT</lastBuildDate>
         <atom:link href="http://dontlol.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +40,6 @@
             <link>http://dontlol.com/42dc7a3e-a799-4496-91f0-37d0454bba97/index.html</link>
             <guid isPermaLink="false">42dc7a3e-a799-4496-91f0-37d0454bba97</guid>
             <pubDate>Mon, 07 Mar 2016 01:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome, I hope your funny bone is not broken.</p>]]></description>
-            <link>http://dontlol.com/ffcd0fe4-ce67-4195-850c-e538b0454ba0/index.html</link>
-            <guid isPermaLink="false">ffcd0fe4-ce67-4195-850c-e538b0454ba0</guid>
-            <pubDate>Sun, 06 Mar 2016 22:56:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
