@@ -4,8 +4,15 @@
         <description><![CDATA[Don't Make Me Laugh - Dontlol.com]]></description>
         <link>http://dontlol.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 23:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 23:49:27 GMT</lastBuildDate>
         <atom:link href="http://dontlol.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/6jQFDo0.gif">]]></description>
+            <link>http://i.imgur.com/6jQFDo0.gif</link>
+            <guid isPermaLink="false">d3f0363d-c6be-4512-84e1-3c59cacc43ea</guid>
+            <pubDate>Tue, 15 Mar 2016 23:48:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://i.imgur.com/C09JMHd.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://i.imgur.com/YeF85gU.gif</link>
             <guid isPermaLink="false">5f9f3eba-384e-451a-9ca1-06c67320a978</guid>
             <pubDate>Fri, 11 Mar 2016 21:40:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i.imgur.com/gxqVkgI.gif">]]></description>
-            <link>http://dontlol.com/fe38f508-0ef7-44ca-b91a-5156ed1cdd1b/index.html</link>
-            <guid isPermaLink="false">fe38f508-0ef7-44ca-b91a-5156ed1cdd1b</guid>
-            <pubDate>Fri, 11 Mar 2016 21:40:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
