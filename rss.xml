@@ -4,8 +4,22 @@
         <description><![CDATA[Don't Make Me Laugh - Dontlol.com]]></description>
         <link>http://dontlol.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 23:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 18:10:48 GMT</lastBuildDate>
         <atom:link href="http://dontlol.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/eB2zfW8.gif">]]></description>
+            <link>http://i.imgur.com/eB2zfW8.gif</link>
+            <guid isPermaLink="false">41738732-5d4c-496d-b625-b0310b85d57b</guid>
+            <pubDate>Wed, 06 Apr 2016 18:10:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/53BEQlG.jpg">]]></description>
+            <link>http://i.imgur.com/53BEQlG.jpg</link>
+            <guid isPermaLink="false">c6c0730b-c5f3-4ab6-b67c-c998291fa0d3</guid>
+            <pubDate>Tue, 05 Apr 2016 23:46:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://i.imgur.com/lc3BXIV.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>https://giant.gfycat.com/PlainPeskyGroundhog.gif</link>
             <guid isPermaLink="false">611e35a9-7611-4e15-ad9d-f132bd92d510</guid>
             <pubDate>Sat, 02 Apr 2016 01:07:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://thechive.files.wordpress.com/2016/03/1662241-18.jpg?quality=85&strip=info&w=600">]]></description>
-            <link>http://thechive.com/2016/03/30/these-animals-won-the-genetic-jackpot-when-it-comes-to-markings-25-photos/</link>
-            <guid isPermaLink="false">4a5aa2c1-58d2-49f6-973a-9d9a2380f7d3</guid>
-            <pubDate>Wed, 30 Mar 2016 23:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://thechive.files.wordpress.com/2016/03/12-us29w1q.jpg?quality=85&strip=info&w=600">]]></description>
-            <link>http://thechive.com/2016/03/30/these-animals-won-the-genetic-jackpot-when-it-comes-to-markings-25-photos/</link>
-            <guid isPermaLink="false">321236ce-919c-46e9-b0b4-781c3a80adb1</guid>
-            <pubDate>Wed, 30 Mar 2016 23:09:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
