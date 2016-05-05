@@ -4,8 +4,22 @@
         <description><![CDATA[Don't Make Me Laugh - Dontlol.com]]></description>
         <link>http://dontlol.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 17:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 17:31:23 GMT</lastBuildDate>
         <atom:link href="http://dontlol.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.imgur.com/ZAr4Ann.gif">]]></description>
+            <link>https://i.imgur.com/ZAr4Ann.gif</link>
+            <guid isPermaLink="false">556d19cc-c12d-4421-bee3-f4f36987d11e</guid>
+            <pubDate>Thu, 05 May 2016 17:30:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/pNAdecI.jpg">]]></description>
+            <link>http://i.imgur.com/pNAdecI.jpg</link>
+            <guid isPermaLink="false">f928e0cd-4027-4e0a-9349-fe6da2860aea</guid>
+            <pubDate>Thu, 05 May 2016 17:30:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://i.imgur.com/h1UNWUJ.gif">]]></description>
@@ -61,20 +75,6 @@
             <link>http://i.imgur.com/o54DMWZ.gif</link>
             <guid isPermaLink="false">f7613634-49cb-4735-8c9f-0da6cc1f0e23</guid>
             <pubDate>Wed, 27 Apr 2016 21:27:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i.imgur.com/3DJIFSC.gif">]]></description>
-            <link>http://i.imgur.com/3DJIFSC.gif</link>
-            <guid isPermaLink="false">5559a801-4191-45dc-970f-7d09e4a368d0</guid>
-            <pubDate>Wed, 27 Apr 2016 21:27:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://thechive.files.wordpress.com/2016/03/1662241-23.jpg?quality=85&strip=info&w=600">]]></description>
-            <link>http://thechive.com/2016/03/30/these-animals-won-the-genetic-jackpot-when-it-comes-to-markings-25-photos/</link>
-            <guid isPermaLink="false">43a79229-e0e9-40fe-8afa-83dd3936aec8</guid>
-            <pubDate>Tue, 19 Apr 2016 17:56:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
