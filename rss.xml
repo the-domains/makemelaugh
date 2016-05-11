@@ -4,8 +4,29 @@
         <description><![CDATA[Don't Make Me Laugh - Dontlol.com]]></description>
         <link>http://dontlol.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 17:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 20:04:27 GMT</lastBuildDate>
         <atom:link href="http://dontlol.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/7GyIvYF.jpg">]]></description>
+            <link>http://dontlol.com/b493b7cf-4fd8-4574-918e-78f99e8341a3/index.html</link>
+            <guid isPermaLink="false">b493b7cf-4fd8-4574-918e-78f99e8341a3</guid>
+            <pubDate>Wed, 11 May 2016 20:04:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/bo1Ivge.jpg">]]></description>
+            <link>http://dontlol.com/019c60be-1893-4398-90b9-f89e58523e99/index.html</link>
+            <guid isPermaLink="false">019c60be-1893-4398-90b9-f89e58523e99</guid>
+            <pubDate>Wed, 11 May 2016 20:04:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/KWN2Syi.jpg">]]></description>
+            <link>http://dontlol.com/04065fd2-17bb-49fe-b9f4-f6f00ae97487/index.html</link>
+            <guid isPermaLink="false">04065fd2-17bb-49fe-b9f4-f6f00ae97487</guid>
+            <pubDate>Wed, 11 May 2016 20:04:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://i.imgur.com/s9Pcxny.gif">]]></description>
@@ -54,27 +75,6 @@
             <link>http://i.imgur.com/sfs4e7o.gif</link>
             <guid isPermaLink="false">87c0187e-fcf8-4c05-bcc6-eecdc825bbe4</guid>
             <pubDate>Thu, 05 May 2016 17:16:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i.imgur.com/9EvTWDs.gif">]]></description>
-            <link>http://i.imgur.com/9EvTWDs.gif</link>
-            <guid isPermaLink="false">157a1615-3d07-4110-ac68-ab7c2cbb4027</guid>
-            <pubDate>Thu, 05 May 2016 17:16:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i.imgur.com/D331RXf.jpg?1">]]></description>
-            <link>http://i.imgur.com/D331RXf.jpg?1</link>
-            <guid isPermaLink="false">bdd03719-9e44-4a90-bac5-c1e0f5f35dab</guid>
-            <pubDate>Sun, 01 May 2016 23:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i.imgur.com/1lVOh0L.jpg">]]></description>
-            <link>http://i.imgur.com/1lVOh0L.jpg</link>
-            <guid isPermaLink="false">00ed4935-4793-4c89-9a8f-237895aea13c</guid>
-            <pubDate>Wed, 27 Apr 2016 21:27:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
